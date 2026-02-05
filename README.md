@@ -1,6 +1,10 @@
 # X-bulk-delete
 Script to delete before a particular date (Credits go to ChatGPT, I didn't write any of this code)
 
+How to run:
+Open Chrome and go to your X profile (https://x.com/USERNAME/with_replies)
+Open Chrome Developer Console. Copy/Paste the code:
+
 ```js
 const deleteTweetsBeforeDate = async () => {
   const processed = new Set();
