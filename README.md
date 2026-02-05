@@ -117,4 +117,7 @@ const deleteTweetsBeforeDate = async () => {
 deleteTweetsBeforeDate();
 
 
+```
+![Demo Screenshot](demo.png)
+
 
