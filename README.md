@@ -113,6 +113,4 @@ const deleteTweetsBeforeDate = async () => {
 deleteTweetsBeforeDate();
 
 
-<img width="1626" height="900" alt="image" src="https://github.com/user-attachments/assets/4fedf4b1-7907-4d4c-a2fd-ff4d2f099b92" />
-
 
